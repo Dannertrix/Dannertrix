@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dannertrixtv" target="blank"><img src="https://img.shields.io/twitter/follow/dannertrixtv?logo=twitter&style=for-the-badge" alt="dannertrixtv" /></a> </p>
 
-- 🔭 I’m currently working on **WAC-Discordbot | WAC-Webseite | and a public kanbanboard project**
+- 🔭 I’m currently working on **...**
 
-- 🌱 I’m currently learning **PHP, Webpack**
+- 🌱 I’m currently learning **Symfony**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
