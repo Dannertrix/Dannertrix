@@ -16,7 +16,8 @@
 <a href="https://codepen.io/dannertrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dannertrix" height="30" width="40" /></a>
 <a href="https://twitter.com/dannertrixtv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dannertrixtv" height="30" width="40" /></a>
 <a href="https://instagram.com/dannertrix" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dannertrix" height="30" width="40" /></a>
-<a href="https://discord.gg/NCdAwHzMVn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NCdAwHzMVn" height="30" width="40" /></a>
+<a href="https://discord.gg/AvWaBakwsA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NCdAwHzMVn" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/dannertrix"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" alt="Twitch Logo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -48,6 +49,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/shopware/shopware-original.svg" height="40" alt="shopware logo"  />
+  <img width="12">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo"  />
 </div>
 
 ###
