@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/dannertrixtv" target="blank"><img src="https://img.shields.io/twitter/follow/dannertrixtv?logo=twitter&style=for-the-badge" alt="dannertrixtv" /></a> </p>
 
-- 🔭 I’m currently working on **a Webapplication named Budget book**
+- 🔭 I’m currently working on **a Webapplication named Budget book and a 2D Pixelart Game**
 
-- 🌱 I’m currently learning **Game Development and Fullstack Webdevelopment**
+- 🌱 I’m currently learning **Game Development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
